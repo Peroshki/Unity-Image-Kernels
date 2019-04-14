@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "3D Scene with Shaders",
+"productName": "Image Kernels",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
