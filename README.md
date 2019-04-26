@@ -20,14 +20,14 @@ A demonstration of image processing using kernel transformations in Unity 3D. Tw
 ## Screenshots
 
 <p align="center">
-  Sharpen filter:
+  <strong>Sharpen filter:</strong>
 </p>
 
 ![Sharp 0](Screenshots/Sharp0.png)
 ![Sharp 5](Screenshots/Sharp5.png)
 
 <p align="center">
-  Blur filter:
+  <strong>Blur filter:</strong>
 </p>
 
 ![Blur 0](Screenshots/Blur0.png)
