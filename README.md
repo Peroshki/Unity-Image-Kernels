@@ -20,7 +20,7 @@ A demonstration of image processing using kernel transformations in Unity 3D. Tw
 ## Screenshots
 
 <p align="center">
-  Stuff
+  * Sharpen filter:
 </p>
 
 ![Sharp 0](Screenshots/Sharp0.png)
