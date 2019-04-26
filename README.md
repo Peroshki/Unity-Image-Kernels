@@ -22,6 +22,7 @@ A demonstration of image processing using kernel transformations in Unity 3D. Tw
 <p align="center">
   Stuff
 </p>
+
 ![Sharp 0](Screenshots/Sharp0.png)
 ![Sharp 5](Screenshots/Sharp5.png)
 ![Blur 0](Screenshots/Blur0.png)
