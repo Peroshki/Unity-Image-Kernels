@@ -16,3 +16,9 @@ A demonstration of image processing using kernel transformations in Unity 3D. Tw
 * The Blur filter looks best at around 0.03 to 0.1 Mix.
 
 * The Sharpen filter looks best at around 0.3 to 0.5 Mix.
+
+## Screenshots
+![Sharp 0](Screenshots/Sharp0.png)
+![Sharp 5](Screenshots/Sharp5.png)
+![Blur 0](Screenshots/Blur0.png)
+![Blur 5](Screenshots/Blur5.png)
