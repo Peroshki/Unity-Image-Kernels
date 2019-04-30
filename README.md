@@ -1,6 +1,8 @@
 # Unity 3D Kernel Demo
 
-A demonstration of image processing using kernel transformations in Unity 3D. Two different image kernels are used in this project, one to blur an image using a Gaussian Blur approximation, and one to sharpen an image. The kernel transformations are applied using CG/HLSL shaders. Hosted at https://peroshki.github.io/Unity-Image-Kernels/
+Play this demo at https://peroshki.github.io/Unity-Image-Kernels/
+
+A demonstration of image processing using kernel transformations in Unity 3D. Two different image kernels are used in this project, one to blur an image using a Gaussian Blur approximation, and one to sharpen an image. The kernel transformations are applied using CG/HLSL shaders. All of the shaders and scripts used in this project can be found in the Assets folder.
 
 ## Controls
 | Key        | Action           |
